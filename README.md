@@ -1,9 +1,9 @@
 # Deploy your website to S3
 
-[![Build Status](https://travis-ci.org/laurilehmijoki/s3_website.png?branch=master)](https://travis-ci.org/laurilehmijoki/s3_website)
+[![Build Status](https://travis-ci.org/ingelabs/s3_website.png?branch=master)](https://travis-ci.com/ingelabs/s3_website)
 [![Gem Version](https://fury-badge.herokuapp.com/rb/s3_website.png)](http://badge.fury.io/rb/s3_website)
 
-Please note that this project is not actively maintained.
+This project is a fork from Lauri Lehmijoki's [s3_website](https://github.com/laurilehmijoki/s3_website). The original project is not actively maintained.
 
 ## What `s3_website` can do for you
 
